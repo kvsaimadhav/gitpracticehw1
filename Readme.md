@@ -1,4 +1,4 @@
-#Challenges Occurred while learning Rebasing with Master branch from a new branch Slave:
+Challenges Occurred while learning Rebasing with Master branch from a new branch Slave:
 
 I do not know the correct command initially and read the documentation of the GIT rebase fully. 
 
